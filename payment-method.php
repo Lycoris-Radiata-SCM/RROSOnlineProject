@@ -149,7 +149,7 @@ else{
 		   $('.show-theme-options').delay(2000).trigger('click');
 		});
 	</script>
-	<!-- For demo purposes – can be removed on production : End -->
+	<!-- Cannot Link to bank-->
 
 	
 
