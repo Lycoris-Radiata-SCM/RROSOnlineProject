@@ -233,6 +233,9 @@ while($row=mysqli_fetch_array($query))
 			</div>
 		</div><!--/.container-->
 	</div><!--/.wrapper-->
+	
+	<div>
+	</div>
 
 <?php include('include/footer.php');?>
 
