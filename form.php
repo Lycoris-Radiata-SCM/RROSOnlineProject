@@ -158,7 +158,7 @@ if(isset($_GET['action']) && $_GET['action']=="add"){
 		   $('.show-theme-options').delay(2000).trigger('click');
 		});
 	</script>
-	<!-- For demo purposes – can be removed on production : End -->
+	<!-- Form been added to customer request but cannot work-->
 
 	
 
